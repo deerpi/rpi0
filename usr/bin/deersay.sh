@@ -1,0 +1,10 @@
+echo ""
+echo $1
+echo ""
+echo "    \   \_\_    _/_/"
+echo "     \      \__/"
+echo "      \     (oo)\_______"
+echo "            (__)\       )\\/\\"
+echo "                ||-----||"
+echo "                ||     ||"
+echo ""
